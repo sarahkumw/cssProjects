@@ -1,0 +1,28 @@
+div {
+    background-color: pink;
+    border-radius: 15px;
+    padding: 20px;
+    width: 50%;
+}
+
+h1 {
+    color: #003366;
+    font-family: "fantasy";
+    text-shadow: 4px 4px 5px white;
+}
+
+h2 {
+    color: rgb(138,43,226);
+    font-style: oblique;
+}
+
+h3 {
+    color: yellow;
+    text-decoration: overline;
+}
+
+h4 {
+    color: hsl(150,100%,50%);
+    font-style: italic;
+    text-decoration: line-through;
+}
